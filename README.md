@@ -1,6 +1,6 @@
  <h1 align="center">Hi, I’m Kye 😁</h1>
  <h3 align="center">
-An energetic and dedicated Full-Stack Software Developer based in the UK, on the search for a Junior Software Developer position.</h3>
+A passionate and dedicated Full-Stack Software Developer based in the UK, on the search for a Junior Software Developer position.</h3>
 
  - 👨‍💻 I'm currently working on <a href="https://github.com/yee0802/react-store">Stylish</a>
  - 📩 Contact me at: <a href="mailto:kyee8621@gmail.com">kyee8621@gmail.com</a>
