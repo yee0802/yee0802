@@ -1,10 +1,8 @@
- <img align="center" width="100%" src="https://i.pinimg.com/originals/eb/50/87/eb50875a68b04b0480fa929af2c7547c.gif"/> 
-
  <h1 align="center">Hi, I’m Kye 😁</h1>
  <h3 align="center">
-An energetic and dedicated Full-Stack Software Developer based in Bath, UK.</h3>
+An energetic and dedicated Full-Stack Software Developer based in the UK, on the search for a Junior Software Developer position.</h3>
 
- - 👨‍💻 I'm currently working on a <a href="">Stylish</a>
+ - 👨‍💻 I'm currently working on <a href="">Stylish</a>
  - 📩 Contact me at: <a href="mailto:kyee8621@gmail.com">kyee8621@gmail.com</a>
  
  <h2>Github Profile Trophies</h2>
