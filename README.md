@@ -1,11 +1,14 @@
  <h1 align="center">Hi, I’m Kye 😁</h1>
  <h3 align="center">
-A passionate and dedicated Full-Stack Software Developer based in the UK, on the search for a Junior Software Developer position.</h3>
+ A passionate and dedicated Full-Stack Software Developer based in the Bath, UK</h3>
 
  - 👨‍💻 I'm currently working on <a href="https://github.com/yee0802/react-store">Stylish</a>
- - 📩 Contact me at: <a href="mailto:kyee8621@gmail.com">kyee8621@gmail.com</a>
+ - 📩 Contact me at <a href="mailto:kyee8621@gmail.com">kyee8621@gmail.com</a>
  
- <h2>Github Profile Trophies</h2>
+ <h2>Connect with me:</h2>
+ <a href="https://linkedin.com/in/kye-yee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kye-yee" height="30" width="40" /></a>
+ 
+ <h2>Github Stats:</h2>
  <img align="center" src="https://github-profile-trophy.vercel.app/?username=yee0802&row=1&column=5&theme=tokyonight" />
 
  <hr />
