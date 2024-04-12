@@ -2,7 +2,7 @@
  <h3 align="center">
  A passionate and dedicated Full-Stack Software Developer based in Bath, UK</h3>
 
- - 👨‍💻 I'm currently working on <a href="https://github.com/yee0802/react-store">Stylish</a>
+ - 👨‍💻 I'm currently working on <a href="https://github.com/yee0802/branch">Branch</a>
  - 📩 Contact me at <a href="mailto:kyee8621@gmail.com">kyee8621@gmail.com</a>
  
  <h2>Connect with me:</h2>
