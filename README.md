@@ -2,7 +2,7 @@
  <h3 align="center">
  A passionate and dedicated Full-Stack Software Developer based in Bath, UK</h3>
 
- - 👨‍💻 I'm currently learning <a href="https://dev.java/)">Java</a>
+ - 👨‍💻 I'm currently learning <a href="https://dev.java">Java</a>
  - 📩 Contact me at <a href="mailto:kyee8621@gmail.com">kyee8621@gmail.com</a>
  
  <h2>Connect with me:</h2>
